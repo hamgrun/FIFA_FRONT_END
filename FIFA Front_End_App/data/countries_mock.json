@@ -1,0 +1,38 @@
+[
+  {
+    "name": "United States",
+    "iso2": "US",
+    "capital": "Washington, D.C.",
+    "population": 333000000,
+    "gdp_usd": 27000000000000,
+    "gdp_per_capita_usd": 81000,
+    "wc_gdp_lift_pct": 0.6,
+    "wc_host_cost_usd": 12000000000,
+    "wc_net_impact_usd": 18000000000,
+    "feasibility_score": 92
+  },
+  {
+    "name": "Japan",
+    "iso2": "JP",
+    "capital": "Tokyo",
+    "population": 125000000,
+    "gdp_usd": 4200000000000,
+    "gdp_per_capita_usd": 34000,
+    "wc_gdp_lift_pct": 0.4,
+    "wc_host_cost_usd": 9000000000,
+    "wc_net_impact_usd": 8000000000,
+    "feasibility_score": 84
+  },
+  {
+    "name": "South Africa",
+    "iso2": "ZA",
+    "capital": "Pretoria",
+    "population": 61000000,
+    "gdp_usd": 405000000000,
+    "gdp_per_capita_usd": 6600,
+    "wc_gdp_lift_pct": 1.0,
+    "wc_host_cost_usd": 7500000000,
+    "wc_net_impact_usd": 2500000000,
+    "feasibility_score": 63
+  }
+]
